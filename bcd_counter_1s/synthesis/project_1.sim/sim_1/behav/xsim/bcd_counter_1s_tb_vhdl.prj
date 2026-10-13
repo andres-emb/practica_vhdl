@@ -1,0 +1,9 @@
+# compile vhdl design source files
+vhdl xil_defaultlib  \
+"../../../../../sources/bcd_counter.vhd" \
+"../../../../../sources/bcd_counter_1s.vhd" \
+"../../../../../sources/pulse_generator.vhd" \
+"../../../../../sources/bcd_counter_1s_tb.vhd" \
+
+# Do not sort compile order
+nosort

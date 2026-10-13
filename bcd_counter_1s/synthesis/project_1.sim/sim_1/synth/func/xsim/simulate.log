@@ -1,0 +1,6 @@
+Vivado Simulator 2018.3
+Time resolution is 1 ps
+Stopped at time : 1010 ns : File "/home/zoa/cese/clp/exercises/bcd_counter_1s/sources/bcd_counter_1s_tb.vhd" Line 22
+Stopped at time : 1020 ns : File "/home/zoa/cese/clp/exercises/bcd_counter_1s/sources/bcd_counter_1s_tb.vhd" Line 22
+Stopped at time : 1030 ns : File "/home/zoa/cese/clp/exercises/bcd_counter_1s/sources/bcd_counter_1s_tb.vhd" Line 22
+Stopped at time : 1040 ns : File "/home/zoa/cese/clp/exercises/bcd_counter_1s/sources/bcd_counter_1s_tb.vhd" Line 22

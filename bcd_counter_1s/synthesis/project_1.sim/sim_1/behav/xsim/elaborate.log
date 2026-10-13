@@ -1,0 +1,18 @@
+Vivado Simulator 2018.3
+Copyright 1986-1999, 2001-2018 Xilinx, Inc. All Rights Reserved.
+Running: /tools/Xilinx/Vivado/2018.3/bin/unwrapped/lnx64.o/xelab -wto 5532df01fde04b6c9ec67585aa99fc19 --incr --debug typical --relax --mt 8 -L xil_defaultlib -L secureip --snapshot bcd_counter_1s_tb_behav xil_defaultlib.bcd_counter_1s_tb -log elaborate.log 
+Using 8 slave threads.
+Starting static elaboration
+Completed static elaboration
+Starting simulation data flow analysis
+Completed simulation data flow analysis
+Time Resolution for simulation is 1ps
+Compiling package std.standard
+Compiling package std.textio
+Compiling package ieee.std_logic_1164
+Compiling package ieee.numeric_std
+Compiling architecture clock_1s_enable_gen_arq of entity xil_defaultlib.clock_1s_enable_gen [clock_1s_enable_gen_default]
+Compiling architecture bcd_counter_arq of entity xil_defaultlib.bcd_counter [bcd_counter_default]
+Compiling architecture bcd_counter_1s_arq of entity xil_defaultlib.bcd_counter_1s [bcd_counter_1s_default]
+Compiling architecture bcd_counter_1s_tb_arc of entity xil_defaultlib.bcd_counter_1s_tb
+Built simulation snapshot bcd_counter_1s_tb_behav

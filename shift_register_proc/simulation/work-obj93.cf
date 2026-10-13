@@ -1,0 +1,7 @@
+v 4
+file "/home/zoa/cese/clp/exercises/shift_register_proc/" "sources/shift_register.vhd" "481d422efdd46f1f82b730e8c77a95af23316500" "20260911040124.004":
+  entity shift_register_4b at 1( 0) + 0 on 13;
+  architecture shift_register_4b_arc of shift_register_4b at 12( 208) + 0 on 14;
+file "/home/zoa/cese/clp/exercises/shift_register_proc/" "sources/shift_register_tb.vhd" "37cd9e376c3ba48a22d039345eb2bf60d250201a" "20260911040123.984":
+  entity shift_register_tb at 1( 0) + 0 on 11;
+  architecture shift_register_tb_arc of shift_register_tb at 7( 103) + 0 on 12;

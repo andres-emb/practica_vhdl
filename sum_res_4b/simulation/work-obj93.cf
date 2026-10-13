@@ -1,0 +1,10 @@
+v 4
+file "/home/zoa/cese/clp/exercises/sum_res_4b/" "../sum_1b/sources/sum_1b.vhd" "23a8bc2c4b9f3879bee010710315e3a1b2a62bc8" "20260908014048.426":
+  entity sum_1b at 1( 0) + 0 on 15;
+  architecture sumb_1b_arc of sum_1b at 16( 239) + 0 on 16;
+file "/home/zoa/cese/clp/exercises/sum_res_4b/" "sources/sum_res_4b_tb.vhd" "a7b9c9fb3c61ad1f9eea2d9137ea4dab702ab211" "20260908014048.358":
+  entity sum_res_nb_tb at 1( 0) + 0 on 11;
+  architecture sum_res_nb_tb_arc of sum_res_nb_tb at 7( 95) + 0 on 12;
+file "/home/zoa/cese/clp/exercises/sum_res_4b/" "sources/sum_res_4b.vhd" "5ca7467ed569c1bd64dc9d283ef46db8bdf3ce4c" "20260908014048.389":
+  entity sum_res_nb at 1( 0) + 0 on 13;
+  architecture sum_res_nb_arc of sum_res_nb at 19( 395) + 0 on 14;

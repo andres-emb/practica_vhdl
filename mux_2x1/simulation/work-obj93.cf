@@ -1,0 +1,7 @@
+v 4
+file "/home/zoa/cese/clp/exercises/mux_2x1/" "sources/mux_2x1.vhd" "66a89d1fc7faa199430ec11894e259e4814af49b" "20260906231951.873":
+  entity mux_2x1 at 1( 0) + 0 on 17;
+  architecture mux_2x1_arc of mux_2x1 at 15( 215) + 0 on 18;
+file "/home/zoa/cese/clp/exercises/mux_2x1/" "sources/mux_2x1_tb.vhd" "0fec17d6c3caa2f2c1ff5e2a6ee6d50a6a055463" "20260906231951.852":
+  entity mux_2x1_tb at 1( 0) + 0 on 15;
+  architecture mux_2x1_tb_arc of mux_2x1_tb at 7( 89) + 0 on 16;

@@ -1,0 +1,15 @@
+Copyright 1986-2018 Xilinx, Inc. All Rights Reserved.
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2018.3 (lin64) Build 2405991 Thu Dec  6 23:36:41 MST 2018
+| Date         : Mon Sep 28 22:48:06 2026
+| Host         : hyde running 64-bit Fedora Linux 44 (KDE Plasma Desktop Edition)
+| Command      : report_bus_skew -warn_on_violation -file bcd_counter_1s_bus_skew_routed.rpt -pb bcd_counter_1s_bus_skew_routed.pb -rpx bcd_counter_1s_bus_skew_routed.rpx
+| Design       : bcd_counter_1s
+| Device       : 7s50-csga324
+| Speed File   : -1  PRODUCTION 1.23 2018-06-13
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Bus Skew Report
+
+No bus skew constraints
+

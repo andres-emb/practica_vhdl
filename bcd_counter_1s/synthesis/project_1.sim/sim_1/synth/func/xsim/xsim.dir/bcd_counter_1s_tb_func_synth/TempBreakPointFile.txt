@@ -1,0 +1,3 @@
+Breakpoint File Version 1.0
+22 true /home/zoa/cese/clp/exercises/bcd_counter_1s/sources/bcd_counter_1s_tb.vhd
+23 true /home/zoa/cese/clp/exercises/bcd_counter_1s/sources/bcd_counter_1s_tb.vhd

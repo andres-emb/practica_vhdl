@@ -1,0 +1,6 @@
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/zoa/cese/clp/exercises/bcd_counter_1s/synthesis/project_1.sim/sim_1/synth/func/xsim/bcd_counter_1s_tb_func_synth.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'bcd_counter'
+INFO: [VRFC 10-3107] analyzing entity 'clock_1s_enable_gen'
+INFO: [VRFC 10-3107] analyzing entity 'bcd_counter_1s'
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/zoa/cese/clp/exercises/bcd_counter_1s/sources/bcd_counter_1s_tb.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'bcd_counter_1s_tb'

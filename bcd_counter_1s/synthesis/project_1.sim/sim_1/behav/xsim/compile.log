@@ -1,0 +1,12 @@
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/zoa/cese/clp/exercises/bcd_counter_1s/sources/bcd_counter.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'bcd_counter'
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/zoa/cese/clp/exercises/bcd_counter_1s/sources/pulse_generator.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'clock_1s_enable_gen'
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/zoa/cese/clp/exercises/bcd_counter_1s/sources/bcd_counter_1s.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'bcd_counter_1s'
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/zoa/cese/clp/exercises/bcd_counter_1s/sources/pulse_generator.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'clock_1s_enable_gen'
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/zoa/cese/clp/exercises/bcd_counter_1s/sources/bcd_counter_1s_tb.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'bcd_counter_1s_tb'
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/zoa/cese/clp/exercises/bcd_counter_1s/sources/bcd_counter_1s_tb.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'bcd_counter_1s_tb'

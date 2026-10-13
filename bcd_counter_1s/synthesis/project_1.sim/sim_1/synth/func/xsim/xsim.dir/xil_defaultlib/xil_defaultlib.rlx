@@ -1,0 +1,6 @@
+0.6
+2018.3
+Dec  6 2018
+23:39:36
+/home/zoa/cese/clp/exercises/bcd_counter_1s/sources/bcd_counter_1s_tb.vhd,1790654107,vhdl,,,,bcd_counter_1s_tb,,,,,,,,
+/home/zoa/cese/clp/exercises/bcd_counter_1s/synthesis/project_1.sim/sim_1/synth/func/xsim/bcd_counter_1s_tb_func_synth.vhd,1790654360,vhdl,,,,bcd_counter;bcd_counter_1s;clock_1s_enable_gen,,,,,,,,

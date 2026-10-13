@@ -1,0 +1,10 @@
+v 4
+file "/home/zoa/cese/clp/exercises/bin_counter_cmp/" "sources/reg.vhd" "3daee48c952367e3b2cf723eb2a5f20cb7e7cc9e" "20260913192601.784":
+  entity reg at 1( 0) + 0 on 15;
+  architecture reg_arc of reg at 18( 321) + 0 on 16;
+file "/home/zoa/cese/clp/exercises/bin_counter_cmp/" "sources/bin_counter_tb.vhd" "947b851bb904df1fdd5460b27bad53db16cb3df1" "20260913192601.727":
+  entity counter_4b_tb at 1( 0) + 0 on 11;
+  architecture counter_4b_tb_arc of counter_4b_tb at 7( 95) + 0 on 12;
+file "/home/zoa/cese/clp/exercises/bin_counter_cmp/" "sources/bin_counter.vhd" "822a186549fc60149b5828c6bb3c1d52265ab233" "20260913192601.755":
+  entity counter_4b at 1( 0) + 0 on 13;
+  architecture counter_4b_arq of counter_4b at 14( 270) + 0 on 14;

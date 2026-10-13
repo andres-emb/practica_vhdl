@@ -1,0 +1,6 @@
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/zoa/cese/clp/exercises/sum_1b/sources/sum_1b.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'sum_1b'
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/zoa/cese/clp/exercises/sum_4b/sources/sum_4b.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'sum_Nb'
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/zoa/cese/clp/exercises/sum_4b/sources/sum_4b_tb.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'sum_Nb_tb'

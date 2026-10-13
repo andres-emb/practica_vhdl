@@ -1,0 +1,7 @@
+v 4
+file "/home/zoa/cese/clp/exercises/barrel_shifter/" "sources/barrel_shifter.vhd" "364b6103cc6d8d2ee61d36c3e011f7e6b07ae74f" "20260922020836.977":
+  entity barrel_shifter_nb at 1( 0) + 0 on 13;
+  architecture barrel_shifter_nb_arq of barrel_shifter_nb at 18( 432) + 0 on 14;
+file "/home/zoa/cese/clp/exercises/barrel_shifter/" "sources/barrel_shifter_tb.vhd" "d1bfa9d892b68df8216ebd8016acb8db8a2af203" "20260922020836.943":
+  entity barrel_shifter_nb_tb at 1( 0) + 0 on 11;
+  architecture barrel_shifter_nb_tb_arc of barrel_shifter_nb_tb at 7( 109) + 0 on 12;

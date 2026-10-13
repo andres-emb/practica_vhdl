@@ -1,0 +1,10 @@
+v 4
+file "/home/zoa/cese/clp/exercises/shift_register/" "../ffd/sources/ffd.vhd" "9d2ab93bb99dc7c1b95a8968e4351ed70b5add18" "20260911035531.586":
+  entity ffd at 1( 0) + 0 on 15;
+  architecture ffd_arc of ffd at 15( 235) + 0 on 16;
+file "/home/zoa/cese/clp/exercises/shift_register/" "sources/shift_register_tb.vhd" "852cc0aee4a83c1abeef895528c0ea3d220c376d" "20260911035531.540":
+  entity shift_register_tb at 1( 0) + 0 on 11;
+  architecture shift_register_tb_arc of shift_register_tb at 7( 103) + 0 on 12;
+file "/home/zoa/cese/clp/exercises/shift_register/" "sources/shift_register.vhd" "c79844bccfd2b7ef7e90a5553bdfa6d8dfad415d" "20260911035531.561":
+  entity shift_register_n at 1( 0) + 0 on 13;
+  architecture shift_register_n_arc of shift_register_n at 16( 280) + 0 on 14;

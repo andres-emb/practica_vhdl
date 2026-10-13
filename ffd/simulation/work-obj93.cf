@@ -1,0 +1,7 @@
+v 4
+file "/home/zoa/cese/clp/exercises/ffd/" "sources/ffd.vhd" "92a916a27824e24ea5754e54115d2da360d514ca" "20260911030838.071":
+  entity ffd at 1( 0) + 0 on 13;
+  architecture ffd_arc of ffd at 15( 235) + 0 on 14;
+file "/home/zoa/cese/clp/exercises/ffd/" "sources/ffd_tb.vhd" "d0a7cb2dad8d1ad059e35db4e3b50d2dabafb491" "20260911030838.049":
+  entity ffd_tb at 1( 0) + 0 on 11;
+  architecture ffd_tb_arc of ffd_tb at 7( 81) + 0 on 12;

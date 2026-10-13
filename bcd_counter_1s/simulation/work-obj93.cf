@@ -1,0 +1,13 @@
+v 4
+file "/home/zoa/cese/clp/exercises/bcd_counter_imp/" "sources/pulse_generator.vhd" "6efd965adc53dbbd750e0bc2495ec1d215165bb6" "20260929030525.625":
+  entity clock_1s_enable_gen at 1( 0) + 0 on 17;
+  architecture clock_1s_enable_gen_arq of clock_1s_enable_gen at 12( 211) + 0 on 18;
+file "/home/zoa/cese/clp/exercises/bcd_counter_imp/" "sources/bcd_counter_1s.vhd" "a7371f26ef7707dadbdae6157d8a8f354a5fb969" "20260929030525.586":
+  entity bcd_counter_1s at 1( 0) + 0 on 13;
+  architecture bcd_counter_1s_arq of bcd_counter_1s at 13( 265) + 0 on 14;
+file "/home/zoa/cese/clp/exercises/bcd_counter_imp/" "sources/bcd_counter_1s_tb.vhd" "a54a32761468041c2c830e178553f67d09ce0e18" "20260929030525.564":
+  entity bcd_counter_1s_tb at 1( 0) + 0 on 11;
+  architecture bcd_counter_1s_tb_arc of bcd_counter_1s_tb at 7( 103) + 0 on 12;
+file "/home/zoa/cese/clp/exercises/bcd_counter_imp/" "sources/bcd_counter.vhd" "74687eb41da7627eb2d38912928237104af1ecc8" "20260929030525.605":
+  entity bcd_counter at 1( 0) + 0 on 15;
+  architecture bcd_counter_arq of bcd_counter at 14( 272) + 0 on 16;

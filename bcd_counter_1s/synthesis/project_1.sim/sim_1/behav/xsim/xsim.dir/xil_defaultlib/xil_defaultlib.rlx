@@ -1,0 +1,8 @@
+0.6
+2018.3
+Dec  6 2018
+23:39:36
+/home/zoa/cese/clp/exercises/bcd_counter_1s/sources/bcd_counter.vhd,1790649914,vhdl,,,,bcd_counter,,,,,,,,
+/home/zoa/cese/clp/exercises/bcd_counter_1s/sources/bcd_counter_1s.vhd,1790652385,vhdl,,,,bcd_counter_1s,,,,,,,,
+/home/zoa/cese/clp/exercises/bcd_counter_1s/sources/bcd_counter_1s_tb.vhd,1790654107,vhdl,,,,bcd_counter_1s_tb,,,,,,,,
+/home/zoa/cese/clp/exercises/bcd_counter_1s/sources/pulse_generator.vhd,1790653573,vhdl,,,,clock_1s_enable_gen,,,,,,,,

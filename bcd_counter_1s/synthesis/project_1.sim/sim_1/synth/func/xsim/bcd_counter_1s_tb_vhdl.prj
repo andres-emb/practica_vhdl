@@ -1,0 +1,7 @@
+# compile vhdl design source files
+vhdl xil_defaultlib  \
+"bcd_counter_1s_tb_func_synth.vhd" \
+"../../../../../../sources/bcd_counter_1s_tb.vhd" \
+
+# Do not sort compile order
+nosort

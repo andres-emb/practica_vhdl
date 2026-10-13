@@ -1,0 +1,7 @@
+v 4
+file "/home/zoa/cese/clp/exercises/bcd_counter/" "sources/bcd_counter.vhd" "f72507699e0d4de3d358d179b0658c9a1ce4ffb0" "20260929020841.653":
+  entity bcd_counter at 1( 0) + 0 on 17;
+  architecture bcd_counter_arq of bcd_counter at 13( 243) + 0 on 18;
+file "/home/zoa/cese/clp/exercises/bcd_counter/" "sources/bcd_counter_tb.vhd" "4528d0fdacb2c9780a04bb7cf55643007a753256" "20260929020841.632":
+  entity bcd_counter_tb at 1( 0) + 0 on 15;
+  architecture bcd_counter_tb_arc of bcd_counter_tb at 7( 97) + 0 on 16;

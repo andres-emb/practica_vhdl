@@ -1,0 +1,7 @@
+v 4
+file "/home/zoa/cese/clp/exercises/sum_1b/" "sources/sum_1b.vhd" "23a8bc2c4b9f3879bee010710315e3a1b2a62bc8" "20260906200948.427":
+  entity sum_1b at 1( 0) + 0 on 13;
+  architecture sumb_1b_arc of sum_1b at 16( 239) + 0 on 14;
+file "/home/zoa/cese/clp/exercises/sum_1b/" "sources/sum_1b_tb.vhd" "01aefd826a063aa245edf6d51ec24339de7e80a9" "20260906200948.406":
+  entity sum_1b_tb at 1( 0) + 0 on 11;
+  architecture sum_1b_tb_arc of sum_1b_tb at 7( 87) + 0 on 12;
